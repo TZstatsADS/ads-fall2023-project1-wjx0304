@@ -9,11 +9,10 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: Analysis on work-related happy moments
 + This project is conducted by [your name]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
++ Project summary: This project aims to construct an LDA (Latent Dirichlet Allocation) model for the purpose of identifying work-related moments. We seek to discern which countries prioritize work as their primary source of happiness and explore the types of happy moments people commonly share. Furthermore, we specifically examine married individuals with children to determine whether they predominantly share moments related to family or work.
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
